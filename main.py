@@ -11,7 +11,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 POST_LIMIT = 15
-INTERVAL = 86400 // POST_LIMIT  # kuniga 15 ta
+INTERVAL = 60 // POST_LIMIT  # kuniga 15 ta
 
 CAPTIONS = [
     "🔥 Eng zo‘r parfum!\n",
