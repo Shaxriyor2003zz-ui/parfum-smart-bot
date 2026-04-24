@@ -10,8 +10,8 @@ CHANNEL_ID = os.getenv("CHANNEL_ID")
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
-POST_LIMIT = 15
-INTERVAL = 86400 // POST_LIMIT  # kuniga 15 ta
+POST_LIMIT = 30
+  INTERVAL = 86400 // 30  # ~96 minut // POST_LIMIT  # kuniga 30 ta
 
 CAPTIONS = [
     "🔥 Eng zo‘r parfum!\n",
