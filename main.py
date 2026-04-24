@@ -14,8 +14,8 @@ POST_LIMIT = 15
 INTERVAL = 60 // POST_LIMIT  # kuniga 15 ta
 
 CAPTIONS = [
-    "🔥 Eng zo‘r parfum!\n",
-    "💎 Premium hid!\n",
+    "🔥 Eng zo‘r tanlov!\n",
+    "💎 Premium sifat!\n",
     "⚡ Cheklangan dona!\n",
     "👑 Eng ko‘p sotilayotgan!\n"
 ]
